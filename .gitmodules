@@ -1,4 +1,4 @@
 [submodule "drawio"]
 	path = drawio
-	url = https://github.com/nxnminieye/drawio.git
+	url = ../drawio.git
 	branch = master
